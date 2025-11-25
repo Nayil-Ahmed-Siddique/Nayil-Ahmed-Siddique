@@ -9,7 +9,7 @@
 
 ## 🧑‍💼 About Me
 
-I am a dedicated **AI Engineer** with over **2 years of practical experience** in AI model enhancement and optimization.  
+I am a dedicated **AI Engineer** with over **2+ years of practical experience** in AI model enhancement and optimization.  
 🔍 My expertise spans **data analysis**, **threat assessment**, and **algorithm refinement**, significantly improving real-world **model accuracy and threat detection**.
 
 🚀 I’m deeply engaged in improving AI learning processes and passionate about working on diverse **machine learning** and **deep learning** projects — from **data cleaning to insight extraction**.  
