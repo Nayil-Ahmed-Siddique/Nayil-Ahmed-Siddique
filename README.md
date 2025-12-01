@@ -12,7 +12,6 @@
 ---
 
 ## 👤 About Me 
- 
 I am an **AI Engineer** with **2+ years of hands-on experience** in developing, refining, and validating AI/ML models for real-world applications.  
 My experience spans the **full machine-learning lifecycle** — data preparation, model experimentation, optimization, and evaluation.
 
