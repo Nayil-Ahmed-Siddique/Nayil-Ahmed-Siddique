@@ -90,15 +90,34 @@ My technical strengths include **Transformers, CNNs, RNNs, LLM Fine-tuning, NLP,
 ---
 
 ## 📜 Certifications & Learning
-<p align="center">
-  <img alt="Simplilearn" src="https://img.shields.io/badge/Simplilearn-104199736-FF6F61?style=for-the-badge&logo=simplilearn" />
-  <img alt="Stanford" src="https://img.shields.io/badge/Stanford-ML%20Specialization-8B0000?style=for-the-badge&logo=stanford&logoColor=white" />
-  <img alt="Google" src="https://img.shields.io/badge/Google-Crash%20Course%20on%20Python-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img alt="IBM" src="https://img.shields.io/badge/IBM-Data%20Science-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-Data%20Analytics-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img alt="Microsoft" src="https://img.shields.io/badge/Microsoft-AI-00B4FF?style=for-the-badge&logo=microsoft&logoColor=white" />
-</p>
 
+<p align="center">
+
+  <a href="https://success.simplilearn.com/ef4f1b4e-ce77-47d7-8a75-299b9a05dd8b#acc.I2RHtDJE" target="_blank">
+    <img alt="Simplilearn" src="https://img.shields.io/badge/Simplilearn-Data%20Science%20Master's%20Program-FF6F61?style=for-the-badge&logo=simplilearn" />
+  </a>
+
+  <a href="https://coursera.org/share/43e58dcaffd57a5e50db830425af4808" target="_blank">
+    <img alt="Stanford ML" src="https://img.shields.io/badge/Stanford-ML%20Specialization-8B0000?style=for-the-badge&logo=stanford&logoColor=white" />
+  </a>
+
+  <a href="https://www.coursera.org/account/accomplishments/verify/M8K5J232DDNX" target="_blank">
+    <img alt="Google Crash Course" src="https://img.shields.io/badge/Google-Crash%20Course%20on%20Python-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  </a>
+
+  <a href="https://www.coursera.org/account/accomplishments/verify/SKWN6V2SMWC4" target="_blank">
+    <img alt="IBM Data Science" src="https://img.shields.io/badge/IBM-Data%20Science-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
+  </a>
+
+  <a href="https://www.coursera.org/account/accomplishments/verify/S23K5PUJS7PF" target="_blank">
+    <img alt="AWS Data Analytics" src="https://img.shields.io/badge/AWS-Data%20Analytics-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  </a>
+
+  <a href="https://www.coursera.org/account/accomplishments/verify/3A2A26GJ5Z4R" target="_blank">
+    <img alt="Microsoft AI" src="https://img.shields.io/badge/Microsoft-AI-00B4FF?style=for-the-badge&logo=microsoft&logoColor=white" />
+  </a>
+
+</p>
 ---
 
 ## 📫 Connect
