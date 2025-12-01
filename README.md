@@ -14,6 +14,7 @@
 ## 👤 About Me 
 
 I am an **AI Engineer** with **2+ years of hands-on experience** in developing, refining, and validating AI/ML models for real-world applications.  
+
 My experience spans the **full machine-learning lifecycle** — data preparation, model experimentation, optimization, and evaluation.
 
 I’ve contributed to production-grade AI pipelines, especially in **security-driven computer vision systems**, where I trained, analyzed, and fine-tuned models using **RLHF (Reinforcement Learning from Human Feedback)** to improve real-world reliability.
