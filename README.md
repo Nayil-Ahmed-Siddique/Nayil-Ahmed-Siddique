@@ -106,17 +106,4 @@ I’m an **AI Engineer** with **2+ years** of hands-on experience in training, v
 
 ---
 
-### Quick notes & customization options
-- To **link** any badge to a certificate page, wrap the badge in `[ ... ](certificate-url)`. (Example shown above.)  
-- If any badge logo/name is off, tell me which ones to swap — I’ll give you exact badge URLs.  
-- Want the badges grouped differently (by category), or a darker color theme for badges? I’ll tweak it.
-
----
-
-If you want, I’ll also:
-- produce a **dark-theme variant** (different badge colors),  
-- add a small **project cards** section with thumbnails (looks great as a showcase), or  
-- generate the exact markdown lines linking your real certificate URLs (send the links).
-
-Which of those next?
 
