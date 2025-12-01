@@ -6,153 +6,117 @@
 </p>
 
 ---
----
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm Nayil Ahmed Siddique</h1>
 
-## 🧠 About Me  
-I am an **AI Engineer** with **2+ years of hands-on experience** in developing, refining, and validating AI/ML models for real-world applications.  
-My experience spans the **full machine-learning lifecycle** — data preparation, model experimentation, optimization, and evaluation.
-
-I’ve contributed to production-grade AI pipelines, especially in **security-driven computer vision systems**, where I trained, analyzed, and fine-tuned models using **RLHF (Reinforcement Learning from Human Feedback)** to improve real-world reliability.
-
-My technical strengths include **Transformers, CNNs, RNNs, LLM Fine-tuning, NLP, Computer Vision, Generative Models**, classical ML, and structured experimentation.
-
----
-
-## 💼 Experience
-
-### **Ambient.AI — AI Engineer (RLHF)**  
-📅 *Aug 2023 – Present*  
-- Trained and evaluated AI-based security camera models, improving real-time detection reliability.  
-- Fine-tuned and validated models using **RLHF** before deployment.  
-- Managed **data labeling cycles**, feedback loops, and performance monitoring.  
-- Contributed directly to model optimization and operational stability.  
-:contentReference[oaicite:3]{index=3}
-
-### **Inventeron Technologies — Machine Learning Engineer Intern**  
-📅 *Aug 2022 – Oct 2022*  
-- Built ML & DL models through hands-on experimentation and hyperparameter tuning.  
-- Analyzed large datasets to extract insights for model direction and feature selection.  
-- Collaborated with data scientists to iteratively improve accuracy.  
-:contentReference[oaicite:4]{index=4}
-
----
-
-## 🚀 Projects
-
-### 🔹 **Lip-to-Speech Synthesis (Deep Learning | NLP | CV)**  
-📅 *Sep 2022 – Nov 2022* | Varcons Technology  
-- Built a deep learning system converting lip-movement video into synthesized speech.  
-- Trained **CNN + RNN** architectures for visual-to-audio translation.  
-- Improved model intelligibility through iterative tuning and dataset refinement.  
-:contentReference[oaicite:5]{index=5}
-
----
-
-### 🔹 **Fruit Quality Detection (Image Classification | CV)**  
-📅 *Nov 2022 – Mar 2023*  
-- Built a smartphone-camera–based real-time fruit-quality detection system.  
-- Designed a lightweight web interface for instant quality grading.  
-- Validated accuracy across real-world lighting variations.  
-:contentReference[oaicite:6]{index=6}
-
----
-
-### 🔹 **Healthcare Diabetes Prediction (ML)**  
-- Built a predictive model using real-world healthcare datasets.  
-- Applied feature scaling, outlier removal, and correlation analysis.  
-- Trained & compared models (LR, RF, SVM) to optimize recall & accuracy.  
-:contentReference[oaicite:7]{index=7}
-
----
-
-### 🔹 **Home Loan Data Analysis & Prediction (EDA + ML)**  
-- Built a full EDA pipeline for home-loan approval.  
-- Used Decision Trees, Random Forest, and Gradient Boosting for model comparison.  
-:contentReference[oaicite:8]{index=8}
-
----
-
-## 🛠️ Skills
-
-### **Programming**
-Python (NumPy, Pandas, Matplotlib, Seaborn), Prompt Engineering
-
-### **Data Engineering**
-EDA, Data Cleaning, Pipelines, Preprocessing, Feature Engineering
-
-### **Machine Learning**
-Scikit-learn, Supervised/Unsupervised Learning, Predictive Modeling, Evaluation Metrics
-
-### **Deep Learning**
-PyTorch, TensorFlow, Keras, CNNs, RNNs, Transformers, LLM Fine-tuning, NLP, NLU, Computer Vision
-
-### **Advanced ML/DL**
-Transformers, BERT, Transfer Learning, Generative Models  
-:contentReference[oaicite:9]{index=9}
-
-### **MLOps & Cloud**
-- AWS SageMaker (training & deployment workflows)  
-- Azure (SQL, basic cloud integration)  
-- Understanding of CI/CD & deployment pipelines  
-
-### **Tools**
-Docker, Jupyter, Postman, Hugging Face, GitHub
-
-### **API & Deployment**
-Basic experience developing inference APIs for ML models.
-
-### **Soft Skills**
-Communication • Presentation • Collaboration  
-
----
-
-## 🎓 Education  
-**Bachelor of Engineering — Computer Science (CGPA 7.82)**  
-Visvesvaraya Technological University  
-📅 *2019 – 2023*
-
-**Data Science Master’s Program — Specialization Course**  
-Simplilearn (E-learning)  
-📅 *2023 – 2024*  
-:contentReference[oaicite:10]{index=10}
-
----
-
-## 📜 Certifications  
-This includes items from your LinkedIn Certifications list:  
-:contentReference[oaicite:11]{index=11}  
-
-- Data Scientist Master’s Program — Simplilearn  
-- Machine Learning Specialization — Stanford University  
-- Artificial Intelligence — Microsoft  
-- Data Analytics — AWS  
-- Crash Course on Python — Google  
-- Data Analysis with Python — IBM  
-- Data Science Using Python — IBM  
-- Introduction to AI — IBM  
-- Azure SQL & DevOps — Microsoft  
-- Python Data Structures — University of Michigan  
-- Python Programming — University of Michigan  
-- Python for Data Science, AI & Development — IBM  
-
----
-
-## 🌐 Connect With Me  
-📧 **nayilahmedsiddique@gmail.com**  
-🔗 **LinkedIn:** https://www.linkedin.com/in/nayil-ahmed-siddique-26774422a  
-🐙 **GitHub:** https://github.com/Nayil-Ahmed-Siddique  
-
----
-
-## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nayil-Ahmed-Siddique&show_icons=true&theme=react" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nayil-Ahmed-Siddique&theme=react" height="170" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+Engineer+(RLHF)+%7C+ML+%7C+DL+%7C+Prompt+Engineering+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <strong>AI Engineer • ML Engineer • RLHF • Transformers • Computer Vision</strong>
 </p>
 
 ---
 
-## 👁️ Visitor Count  
-<img src="https://komarev.com/ghpvc/?username=Nayil-Ahmed-Siddique&color=blue" />
+## 🧠 About Me
+I’m an **AI Engineer** with **2+ years** of hands-on experience in training, validating, and deploying ML/DL models. I work across the full ML lifecycle and specialize in transformers, fine-tuning LLMs, RLHF, and production-ready CV/NLP pipelines.  
 
+---
+
+## 💼 Experience
+**Ambient.ai — AI Engineer (RLHF)** · *Aug 2023 – Present*  
+- Live training & evaluation of security camera models; fine-tuning with RLHF; managed labeling & feedback loops.  
+
+**Inventeron Technologies — Machine Learning Intern** · *Aug 2022 – Oct 2022*  
+- Built ML/DL models, ran experiments, and analyzed datasets to iterate on features and models.
+
+---
+
+## 🚀 Projects
+- **Lip-to-Speech Synthesis** — visual-to-audio model (CNN + RNN).  
+- **Fruit Quality Detection** — smartphone-based real-time fruit classification + web UI.  
+- **Healthcare Diabetes Prediction** — feature engineering + model comparison (LR, RF, SVM).  
+- **Home Loan Prediction** — EDA + ensemble models for approval prediction.
+
+---
+
+## 🛠️ Tech & Tools
+<!-- Badges row 1 (core languages & libs) -->
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img alt="Scikit-Learn" src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
+
+<!-- Badges row 2 (nlp, deployment, etc) -->
+<p align="center">
+  <img alt="HuggingFace" src="https://img.shields.io/badge/-Hugging%20Face-FF9900?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+---
+
+## 📜 Certifications & Learning
+<p align="center">
+  <img alt="Simplilearn" src="https://img.shields.io/badge/Simplilearn-104199736-FF6F61?style=for-the-badge&logo=simplilearn" />
+  <img alt="Stanford" src="https://img.shields.io/badge/Stanford-ML%20Specialization-8B0000?style=for-the-badge&logo=stanford&logoColor=white" />
+  <img alt="Google" src="https://img.shields.io/badge/Google-Crash%20Course%20on%20Python-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img alt="IBM" src="https://img.shields.io/badge/IBM-Data%20Science-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-Data%20Analytics-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img alt="Microsoft" src="https://img.shields.io/badge/Microsoft-AI-00B4FF?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
+
+> *Tip:* you can link badges to certificate URLs (replace `#` with your certificate link):
+> ```md
+> [![Stanford](https://img.shields.io/badge/Stanford-ML%20Specialization-8B0000?style=for-the-badge&logo=stanford)](https://coursera.org/your-cert-link)
+> ```
+
+---
+
+## 📫 Connect
+<p align="center">
+  <a href="mailto:nayilahmedsiddique@gmail.com"><img src="https://img.shields.io/badge/Email-nayilahmedsiddique@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="https://www.linkedin.com/in/nayil-ahmed-siddique-26774422a"><img src="https://img.shields.io/badge/LinkedIn-Nayil-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://www.instagram.com/nayil.sid/"><img src="https://img.shields.io/badge/Instagram-@nayil.sid-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
+  <a href="https://github.com/Nayil-Ahmed-Siddique"><img src="https://img.shields.io/badge/GitHub-Nayil--Ahmed--Siddique-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+</p>
+
+---
+
+## 📊 GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nayil-Ahmed-Siddique&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayil-Ahmed-Siddique&layout=compact&theme=radical" height="160" />
+</p>
+
+---
+
+## 👁 Visitor Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nayil-Ahmed-Siddique&color=brightgreen" alt="visitors" />
+</p>
+
+---
+
+### Quick notes & customization options
+- To **link** any badge to a certificate page, wrap the badge in `[ ... ](certificate-url)`. (Example shown above.)  
+- If any badge logo/name is off, tell me which ones to swap — I’ll give you exact badge URLs.  
+- Want the badges grouped differently (by category), or a darker color theme for badges? I’ll tweak it.
+
+---
+
+If you want, I’ll also:
+- produce a **dark-theme variant** (different badge colors),  
+- add a small **project cards** section with thumbnails (looks great as a showcase), or  
+- generate the exact markdown lines linking your real certificate URLs (send the links).
+
+Which of those next?
 
