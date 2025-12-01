@@ -20,10 +20,10 @@ I am a dedicated **AI Engineer** with over **2+ years of practical experience** 
 ## 💼 Experience
 
 **Ambient.AI**  
-🧠 *AI Analysis Engineer* | 📅 *Aug 2023 – Present*  
-- Analyzed data and assessed threats for AI model in early stage, enhancing threat detection.
-- Collaborated with team to optimize model algorithms for better real-world performance.
-- Built strong foundations in **data analysis**, **threat identification**, and **insight extraction**.
+🧠 *AI Engineer (RLHF)* | 📅 *Aug 2023 – Present*  
+- Conducted live training and evaluation of AI-based security camera models, enhancing system reliability.
+- Closely collaborated with ML engineers to fine-tune & validate models using RLHF before final deployment.
+- Efficiently managed data labeling, performance tracking, and feedback cycles to improve model accuracy.
 
 ---
 
