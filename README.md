@@ -108,7 +108,7 @@ My technical strengths include **Transformers, CNNs, RNNs, LLM Fine-tuning, NLP,
   <a href="https://www.coursera.org/account/accomplishments/verify/SKWN6V2SMWC4" target="_blank">
     <img alt="IBM Data Science" src="https://img.shields.io/badge/IBM-Data%20Science-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
   </a>
-
+ 
   <a href="https://www.coursera.org/account/accomplishments/verify/S23K5PUJS7PF" target="_blank">
     <img alt="AWS Data Analytics" src="https://img.shields.io/badge/AWS-Data%20Analytics-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   </a>
@@ -118,6 +118,8 @@ My technical strengths include **Transformers, CNNs, RNNs, LLM Fine-tuning, NLP,
   </a>
 
 </p>
+
+---
 
 ## 📫 Connect
 <p align="center">
