@@ -69,21 +69,18 @@ My technical strengths include **Transformers, CNNs, RNNs, LLM Fine-tuning, NLP,
 - Converted **silent lip movements → synthesized speech**.  
 - Improved intelligibility through dataset refinement, tuning, and validation.
 
----
 
 ### 🍎 Fruit Quality Detection (Computer Vision | Classification)  
 - Built a **real-time fruit-quality detection** system using smartphone camera inputs.  
 - Designed a **web interface** for instant grading & fast evaluation.  
 - Ensured reliability across lighting & environment variations.
 
----
 
 ### 🏥 Healthcare Diabetes Prediction (ML | Feature Engineering)  
 - Built a predictive ML model to classify **diabetes risk** using real-world medical datasets.  
 - Applied **scaling, outlier removal, correlation analysis**, and model comparison.  
 - Evaluated models like **Logistic Regression, Random Forest, SVM** to optimize recall & accuracy.
 
----
 
 ### 🏠 Home Loan Analysis & Prediction (EDA + ML)  
 - Built a complete pipeline for **loan approval prediction**.  
