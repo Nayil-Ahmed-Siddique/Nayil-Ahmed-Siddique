@@ -1,14 +1,8 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Nayil Ahmed Siddique</h1>
 
-<!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+ML+%7C+DL+%7C+Prompt+Engineering+Enthusiast" alt="Typing SVG" />
-</p>
-
-<!-- POP-IN Animation (Top Section) -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=700&color=00C2FF&center=true&vCenter=true&width=900&height=70&lines=Welcome+to+my+AI+profile;Explore+my+experience+and+skills;Building+practical+AI+solutions" alt="Pop-in animation" />
 </p>
 
 <p align="center">
@@ -28,7 +22,8 @@ My technical strengths include **Transformers, CNNs, RNNs, LLM Fine-tuning, NLP,
 
 ---
 
-## 🛠️ Tech & Tools
+ ## 🛠️ Tech & Tools
+<!-- Badges row 1 (core languages & libs) -->
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -38,6 +33,7 @@ My technical strengths include **Transformers, CNNs, RNNs, LLM Fine-tuning, NLP,
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
+<!-- Badges row 2 (nlp, deployment, etc) -->
 <p align="center">
   <img alt="HuggingFace" src="https://img.shields.io/badge/-Hugging%20Face-FF9900?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -63,12 +59,8 @@ My technical strengths include **Transformers, CNNs, RNNs, LLM Fine-tuning, NLP,
 - Analyzed datasets to extract insights influencing model features and direction.  
 - Worked with data scientists to improve model accuracy iteratively.  
 
----
 
-<!-- BOUNCING ANIMATION for PROJECTS -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=220&color=00C2FF&center=true&vCenter=true&width=700&height=42&lines=★+Featured+Projects+★;Take+a+look+below" alt="Bouncing animation" />
-</p>
+---
 
 ## 🚀 Projects
 
@@ -77,15 +69,18 @@ My technical strengths include **Transformers, CNNs, RNNs, LLM Fine-tuning, NLP,
 - Converted **silent lip movements → synthesized speech**.  
 - Improved intelligibility through dataset refinement, tuning, and validation.
 
+
 ### 🍎 Fruit Quality Detection (Computer Vision | Classification)  
 - Built a **real-time fruit-quality detection** system using smartphone camera inputs.  
 - Designed a **web interface** for instant grading & fast evaluation.  
 - Ensured reliability across lighting & environment variations.
 
+
 ### 🏥 Healthcare Diabetes Prediction (ML | Feature Engineering)  
 - Built a predictive ML model to classify **diabetes risk** using real-world medical datasets.  
 - Applied **scaling, outlier removal, correlation analysis**, and model comparison.  
 - Evaluated models like **Logistic Regression, Random Forest, SVM** to optimize recall & accuracy.
+
 
 ### 🏠 Home Loan Analysis & Prediction (EDA + ML)  
 - Built a complete pipeline for **loan approval prediction**.  
@@ -113,7 +108,7 @@ My technical strengths include **Transformers, CNNs, RNNs, LLM Fine-tuning, NLP,
   <a href="https://www.coursera.org/account/accomplishments/verify/SKWN6V2SMWC4" target="_blank">
     <img alt="IBM Data Science" src="https://img.shields.io/badge/IBM-Data%20Science-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
   </a>
-
+ 
   <a href="https://www.coursera.org/account/accomplishments/verify/S23K5PUJS7PF" target="_blank">
     <img alt="AWS Data Analytics" src="https://img.shields.io/badge/AWS-Data%20Analytics-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   </a>
@@ -146,5 +141,4 @@ My technical strengths include **Transformers, CNNs, RNNs, LLM Fine-tuning, NLP,
 
 ## 👁️ Visitor Count  
 <img src="https://komarev.com/ghpvc/?username=Nayil-Ahmed-Siddique&color=blue" />
-
 ---
