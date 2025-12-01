@@ -1,16 +1,8 @@
-<h1 align="center">Hi 👋, I'm Nayil Ahmed Siddique</h1>
-<h3 align="center">An AI Engineer passionate about solving real-world problems with data</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=AI%20Engineer%20%7C%20ML%20%7C%20DL%20%7C%20Prompt%20Engineering%20Enthusiast&center=true&width=800&height=45&pause=1000" />
-</p>
-
----
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Nayil Ahmed Siddique</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+Engineer+(RLHF)+%7C+ML+%7C+DL+%7C+Prompt+Engineering+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+ML+%7C+DL+%7C+Prompt+Engineering+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,7 +12,16 @@
 ---
 
 ## 🧠 About Me
-I’m an **AI Engineer** with **2+ years** of hands-on experience in training, validating, and deploying ML/DL models. I work across the full ML lifecycle and specialize in transformers, fine-tuning LLMs, RLHF, and production-ready CV/NLP pipelines.  
+ 
+I am an **AI Engineer** with **2+ years of hands-on experience** in developing, refining, and validating AI/ML models for real-world applications.  
+My experience spans the **full machine-learning lifecycle** — data preparation, model experimentation, optimization, and evaluation.
+
+I’ve contributed to production-grade AI pipelines, especially in **security-driven computer vision systems**, where I trained, analyzed, and fine-tuned models using **RLHF (Reinforcement Learning from Human Feedback)** to improve real-world reliability.
+
+My technical strengths include **Transformers, CNNs, RNNs, LLM Fine-tuning, NLP, Computer Vision, Generative Models**, classical ML, and structured experimentation.
+
+---
+ 
 
 ---
 
@@ -91,19 +92,16 @@ I’m an **AI Engineer** with **2+ years** of hands-on experience in training, v
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nayil-Ahmed-Siddique&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayil-Ahmed-Siddique&layout=compact&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nayil-Ahmed-Siddique&show_icons=true&theme=react" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nayil-Ahmed-Siddique&theme=react" height="170" />
 </p>
 
 ---
 
-## 👁 Visitor Count
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nayil-Ahmed-Siddique&color=brightgreen" alt="visitors" />
-</p>
-
+## 👁️ Visitor Count  
+<img src="https://komarev.com/ghpvc/?username=Nayil-Ahmed-Siddique&color=blue" />
 ---
 
 
