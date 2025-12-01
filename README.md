@@ -6,10 +6,6 @@
 </p>
 
 ---
-
-<h1 align="center">Hi 👋, I'm Nayil Ahmed Siddique</h1>
-<h3 align="center">AI Engineer (RLHF) | Machine Learning Engineer</h3>
-
 ---
 
 ## 🧠 About Me  
