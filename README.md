@@ -118,7 +118,6 @@ My technical strengths include **Transformers, CNNs, RNNs, LLM Fine-tuning, NLP,
   </a>
 
 </p>
----
 
 ## 📫 Connect
 <p align="center">
