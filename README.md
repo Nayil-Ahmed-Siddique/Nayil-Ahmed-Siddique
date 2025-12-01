@@ -11,7 +11,7 @@
 
 ---
 
-## 🧠 About Me
+## 👤 About Me 
  
 I am an **AI Engineer** with **2+ years of hands-on experience** in developing, refining, and validating AI/ML models for real-world applications.  
 My experience spans the **full machine-learning lifecycle** — data preparation, model experimentation, optimization, and evaluation.
@@ -21,28 +21,8 @@ I’ve contributed to production-grade AI pipelines, especially in **security-dr
 My technical strengths include **Transformers, CNNs, RNNs, LLM Fine-tuning, NLP, Computer Vision, Generative Models**, classical ML, and structured experimentation.
 
 ---
- 
 
----
-
-## 💼 Experience
-**Ambient.ai — AI Engineer (RLHF)** · *Aug 2023 – Present*  
-- Live training & evaluation of security camera models; fine-tuning with RLHF; managed labeling & feedback loops.  
-
-**Inventeron Technologies — Machine Learning Intern** · *Aug 2022 – Oct 2022*  
-- Built ML/DL models, ran experiments, and analyzed datasets to iterate on features and models.
-
----
-
-## 🚀 Projects
-- **Lip-to-Speech Synthesis** — visual-to-audio model (CNN + RNN).  
-- **Fruit Quality Detection** — smartphone-based real-time fruit classification + web UI.  
-- **Healthcare Diabetes Prediction** — feature engineering + model comparison (LR, RF, SVM).  
-- **Home Loan Prediction** — EDA + ensemble models for approval prediction.
-
----
-
-## 🛠️ Tech & Tools
+ ## 🛠️ Tech & Tools
 <!-- Badges row 1 (core languages & libs) -->
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -65,6 +45,53 @@ My technical strengths include **Transformers, CNNs, RNNs, LLM Fine-tuning, NLP,
 
 ---
 
+## 💼 Experience
+
+### **Ambient.ai — AI Engineer (RLHF)**  
+📅 *Aug 2023 – Present*  
+- Trained and evaluated AI-based security camera models, improving real-time detection reliability.  
+- Fine-tuned and validated models using **RLHF** before deployment.  
+- Managed data labeling cycles, built feedback loops, and performed performance monitoring.  
+
+### **Inventeron Technologies — Machine Learning Intern**  
+📅 *Aug 2022 – Oct 2022*  
+- Built ML & DL models through hands-on experimentation and hyperparameter tuning.  
+- Analyzed datasets to extract insights influencing model features and direction.  
+- Worked with data scientists to improve model accuracy iteratively.  
+
+
+---
+
+## 🚀 Projects
+
+### 🗣️ Lip-to-Speech Synthesis (Deep Learning | NLP | CV)  
+- Developed a visual-to-audio speech generation model using **CNN + RNN** architectures.  
+- Converted **silent lip movements → synthesized speech**.  
+- Improved intelligibility through dataset refinement, tuning, and validation.
+
+---
+
+### 🍎 Fruit Quality Detection (Computer Vision | Classification)  
+- Built a **real-time fruit-quality detection** system using smartphone camera inputs.  
+- Designed a **web interface** for instant grading & fast evaluation.  
+- Ensured reliability across lighting & environment variations.
+
+---
+
+### 🏥 Healthcare Diabetes Prediction (ML | Feature Engineering)  
+- Built a predictive ML model to classify **diabetes risk** using real-world medical datasets.  
+- Applied **scaling, outlier removal, correlation analysis**, and model comparison.  
+- Evaluated models like **Logistic Regression, Random Forest, SVM** to optimize recall & accuracy.
+
+---
+
+### 🏠 Home Loan Analysis & Prediction (EDA + ML)  
+- Built a complete pipeline for **loan approval prediction**.  
+- Conducted thorough **EDA**, feature handling, encoding & selection.  
+- Compared algorithms (Decision Trees, Random Forest, Gradient Boosting) for best performance.
+
+---
+
 ## 📜 Certifications & Learning
 <p align="center">
   <img alt="Simplilearn" src="https://img.shields.io/badge/Simplilearn-104199736-FF6F61?style=for-the-badge&logo=simplilearn" />
@@ -74,11 +101,6 @@ My technical strengths include **Transformers, CNNs, RNNs, LLM Fine-tuning, NLP,
   <img alt="AWS" src="https://img.shields.io/badge/AWS-Data%20Analytics-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img alt="Microsoft" src="https://img.shields.io/badge/Microsoft-AI-00B4FF?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
-
-> *Tip:* you can link badges to certificate URLs (replace `#` with your certificate link):
-> ```md
-> [![Stanford](https://img.shields.io/badge/Stanford-ML%20Specialization-8B0000?style=for-the-badge&logo=stanford)](https://coursera.org/your-cert-link)
-> ```
 
 ---
 
