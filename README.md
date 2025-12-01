@@ -5,6 +5,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+ML+%7C+DL+%7C+Prompt+Engineering+Enthusiast" alt="Typing SVG" />
 </p>
 
+<!-- Simple animated AI banner -->
+<p align="center">
+  <img src="https://i.imgur.com/kd0CwXB.gif" width="800" alt="AI animation"/>
+</p>
+
 <p align="center">
   <strong>AI Engineer • ML Engineer • RLHF • Transformers • Computer Vision</strong>
 </p>
@@ -21,6 +26,11 @@ I’ve contributed to production-grade AI pipelines, especially in **security-dr
 My technical strengths include **Transformers, CNNs, RNNs, LLM Fine-tuning, NLP, Computer Vision, Generative Models**, classical ML, and structured experimentation.
 
 ---
+
+<!-- Animated divider -->
+<p align="center">
+  <img src="https://i.imgur.com/Ua6D3DM.gif" width="700" alt="divider"/>
+</p>
 
  ## 🛠️ Tech & Tools
 <!-- Badges row 1 (core languages & libs) -->
@@ -141,6 +151,5 @@ My technical strengths include **Transformers, CNNs, RNNs, LLM Fine-tuning, NLP,
 
 ## 👁️ Visitor Count  
 <img src="https://komarev.com/ghpvc/?username=Nayil-Ahmed-Siddique&color=blue" />
+
 ---
-
-
