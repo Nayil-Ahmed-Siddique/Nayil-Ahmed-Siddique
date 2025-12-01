@@ -7,79 +7,156 @@
 
 ---
 
-## 🧑‍💼 About Me
+<h1 align="center">Hi 👋, I'm Nayil Ahmed Siddique</h1>
+<h3 align="center">AI Engineer (RLHF) | Machine Learning Engineer</h3>
 
-I am a dedicated **AI Engineer** with over **2+ years of practical experience** in AI model enhancement and optimization.  
-🔍 My expertise spans **data analysis**, **threat assessment**, and **algorithm refinement**, significantly improving real-world **model accuracy and threat detection**.
+---
 
-🚀 I’m deeply engaged in improving AI learning processes and passionate about working on diverse **machine learning** and **deep learning** projects — from **data cleaning to insight extraction**.  
-🧠 I work extensively with **transformers**, **transfer learning**, and **generative models** to solve complex challenges and build impactful solutions.
+## 🧠 About Me  
+I am an **AI Engineer** with **2+ years of hands-on experience** in developing, refining, and validating AI/ML models for real-world applications.  
+My experience spans the **full machine-learning lifecycle** — data preparation, model experimentation, optimization, and evaluation.
+
+I’ve contributed to production-grade AI pipelines, especially in **security-driven computer vision systems**, where I trained, analyzed, and fine-tuned models using **RLHF (Reinforcement Learning from Human Feedback)** to improve real-world reliability.
+
+My technical strengths include **Transformers, CNNs, RNNs, LLM Fine-tuning, NLP, Computer Vision, Generative Models**, classical ML, and structured experimentation.
 
 ---
 
 ## 💼 Experience
 
-**Ambient.AI**  
-🧠 *AI Engineer (RLHF)* | 📅 *Aug 2023 – Present*  
-- Conducted live training and evaluation of AI-based security camera models, enhancing system reliability.
-- Closely collaborated with ML engineers to fine-tune & validate models using RLHF before final deployment.
-- Efficiently managed data labeling, performance tracking, and feedback cycles to improve model accuracy.
+### **Ambient.AI — AI Engineer (RLHF)**  
+📅 *Aug 2023 – Present*  
+- Trained and evaluated AI-based security camera models, improving real-time detection reliability.  
+- Fine-tuned and validated models using **RLHF** before deployment.  
+- Managed **data labeling cycles**, feedback loops, and performance monitoring.  
+- Contributed directly to model optimization and operational stability.  
+:contentReference[oaicite:3]{index=3}
+
+### **Inventeron Technologies — Machine Learning Engineer Intern**  
+📅 *Aug 2022 – Oct 2022*  
+- Built ML & DL models through hands-on experimentation and hyperparameter tuning.  
+- Analyzed large datasets to extract insights for model direction and feature selection.  
+- Collaborated with data scientists to iteratively improve accuracy.  
+:contentReference[oaicite:4]{index=4}
 
 ---
 
-## 🚀 Skills & Tech Stack
+## 🚀 Projects
 
-### 👨‍💻 Programming & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-0D1117?style=for-the-badge&logo=seaborn&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-blueviolet?style=for-the-badge)
-
-### ⚙️ Tools & Platforms
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### 🧠 ML & DL
-- **Machine Learning**: Classification, Supervised/Unsupervised, Predictive Modeling, API Dev
-- **Deep Learning**: NLP, NLU, CV, Transformers, BERT, Fine-tuning
-- **Frameworks**: PyTorch, TensorFlow
-
-### ☁️ MLOps & Cloud
-- DevOps (CI/CD), Model Deployment  
-- AWS (SageMaker), Azure (basic)
-
-### 🧑‍💼 Soft Skills
-- Excellent Communication, Presentation, Collaboration
+### 🔹 **Lip-to-Speech Synthesis (Deep Learning | NLP | CV)**  
+📅 *Sep 2022 – Nov 2022* | Varcons Technology  
+- Built a deep learning system converting lip-movement video into synthesized speech.  
+- Trained **CNN + RNN** architectures for visual-to-audio translation.  
+- Improved model intelligibility through iterative tuning and dataset refinement.  
+:contentReference[oaicite:5]{index=5}
 
 ---
 
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="mailto:nayilahmedsiddique@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/nayil-ahmed-siddique-26774422a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/nayil.sid/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+### 🔹 **Fruit Quality Detection (Image Classification | CV)**  
+📅 *Nov 2022 – Mar 2023*  
+- Built a smartphone-camera–based real-time fruit-quality detection system.  
+- Designed a lightweight web interface for instant quality grading.  
+- Validated accuracy across real-world lighting variations.  
+:contentReference[oaicite:6]{index=6}
 
 ---
 
-## 📊 GitHub Stats
+### 🔹 **Healthcare Diabetes Prediction (ML)**  
+- Built a predictive model using real-world healthcare datasets.  
+- Applied feature scaling, outlier removal, and correlation analysis.  
+- Trained & compared models (LR, RF, SVM) to optimize recall & accuracy.  
+:contentReference[oaicite:7]{index=7}
 
+---
+
+### 🔹 **Home Loan Data Analysis & Prediction (EDA + ML)**  
+- Built a full EDA pipeline for home-loan approval.  
+- Used Decision Trees, Random Forest, and Gradient Boosting for model comparison.  
+:contentReference[oaicite:8]{index=8}
+
+---
+
+## 🛠️ Skills
+
+### **Programming**
+Python (NumPy, Pandas, Matplotlib, Seaborn), Prompt Engineering
+
+### **Data Engineering**
+EDA, Data Cleaning, Pipelines, Preprocessing, Feature Engineering
+
+### **Machine Learning**
+Scikit-learn, Supervised/Unsupervised Learning, Predictive Modeling, Evaluation Metrics
+
+### **Deep Learning**
+PyTorch, TensorFlow, Keras, CNNs, RNNs, Transformers, LLM Fine-tuning, NLP, NLU, Computer Vision
+
+### **Advanced ML/DL**
+Transformers, BERT, Transfer Learning, Generative Models  
+:contentReference[oaicite:9]{index=9}
+
+### **MLOps & Cloud**
+- AWS SageMaker (training & deployment workflows)  
+- Azure (SQL, basic cloud integration)  
+- Understanding of CI/CD & deployment pipelines  
+
+### **Tools**
+Docker, Jupyter, Postman, Hugging Face, GitHub
+
+### **API & Deployment**
+Basic experience developing inference APIs for ML models.
+
+### **Soft Skills**
+Communication • Presentation • Collaboration  
+
+---
+
+## 🎓 Education  
+**Bachelor of Engineering — Computer Science (CGPA 7.82)**  
+Visvesvaraya Technological University  
+📅 *2019 – 2023*
+
+**Data Science Master’s Program — Specialization Course**  
+Simplilearn (E-learning)  
+📅 *2023 – 2024*  
+:contentReference[oaicite:10]{index=10}
+
+---
+
+## 📜 Certifications  
+This includes items from your LinkedIn Certifications list:  
+:contentReference[oaicite:11]{index=11}  
+
+- Data Scientist Master’s Program — Simplilearn  
+- Machine Learning Specialization — Stanford University  
+- Artificial Intelligence — Microsoft  
+- Data Analytics — AWS  
+- Crash Course on Python — Google  
+- Data Analysis with Python — IBM  
+- Data Science Using Python — IBM  
+- Introduction to AI — IBM  
+- Azure SQL & DevOps — Microsoft  
+- Python Data Structures — University of Michigan  
+- Python Programming — University of Michigan  
+- Python for Data Science, AI & Development — IBM  
+
+---
+
+## 🌐 Connect With Me  
+📧 **nayilahmedsiddique@gmail.com**  
+🔗 **LinkedIn:** https://www.linkedin.com/in/nayil-ahmed-siddique-26774422a  
+🐙 **GitHub:** https://github.com/Nayil-Ahmed-Siddique  
+
+---
+
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nayil-Ahmed-Siddique&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayil-Ahmed-Siddique&layout=compact&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nayil-Ahmed-Siddique&show_icons=true&theme=react" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nayil-Ahmed-Siddique&theme=react" height="170" />
 </p>
 
 ---
 
-## 🔥 Visitor Count
+## 👁️ Visitor Count  
+<img src="https://komarev.com/ghpvc/?username=Nayil-Ahmed-Siddique&color=blue" />
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Nayil-Ahmed-Siddique&label=Visitors&color=brightgreen&style=flat" />
-</p>
+
