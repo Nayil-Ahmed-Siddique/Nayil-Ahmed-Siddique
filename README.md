@@ -148,24 +148,27 @@ My technical strengths include **Transformers, CNNs, RNNs, LLM Fine-tuning, NLP,
 
 ## 📫 Connect
 <p align="center">
-  <a href="mailto:nayilahmedsiddique@gmail.com"><img src="https://img.shields.io/badge/Email-nayilahmedsiddique@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-  <a href="https://www.linkedin.com/in/nayil-ahmed-siddique-26774422a"><img src="https://img.shields.io/badge/LinkedIn-Nayil-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="https://www.instagram.com/nayil.sid/"><img src="https://img.shields.io/badge/Instagram-@nayil.sid-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
-  <a href="https://github.com/Nayil-Ahmed-Siddique"><img src="https://img.shields.io/badge/GitHub-Nayil--Ahmed--Siddique-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+  <a href="mailto:nayilahmedsiddique@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nayilahmedsiddique@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
+  <a href="https://www.linkedin.com/in/nayil-ahmed-siddique-26774422a">
+    <img src="https://img.shields.io/badge/LinkedIn-Nayil-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://www.instagram.com/nayil.sid/">
+    <img src="https://img.shields.io/badge/Instagram-@nayil.sid-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+  </a>
+  <a href="https://github.com/Nayil-Ahmed-Siddique">
+    <img src="https://img.shields.io/badge/GitHub-Nayil--Ahmed--Siddique-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
 </p>
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nayil-Ahmed-Siddique/github-stats/master/generated/overview.svg" height="170" />
-  <img src="https://raw.githubusercontent.com/Nayil-Ahmed-Siddique/github-stats/master/generated/languages.svg" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nayil-Ahmed-Siddique&show_icons=true&theme=react" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nayil-Ahmed-Siddique&theme=react" height="170" />
 </p>
-
-<p align="center">
-  <img src="https://github-contribution-graph.ez4o.com/?username=Nayil-Ahmed-Siddique&theme=react-dark" />
-</p>
-
 
 ---
 
