@@ -158,7 +158,7 @@ My technical strengths include **Transformers, CNNs, RNNs, LLM Fine-tuning, NLP,
     <img src="https://img.shields.io/badge/Instagram-@nayil.sid-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>
   <a href="https://github.com/Nayil-Ahmed-Siddique">
-    <img src="https://img.shields.io/badge/GitHub-Nayil--Ahmed--Siddique-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+    <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" alt="github" />
   </a>
 </p>
 
