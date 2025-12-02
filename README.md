@@ -158,9 +158,14 @@ My technical strengths include **Transformers, CNNs, RNNs, LLM Fine-tuning, NLP,
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nayil-Ahmed-Siddique&show_icons=true&theme=react" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nayil-Ahmed-Siddique&theme=react" height="170" />
+  <img src="https://raw.githubusercontent.com/Nayil-Ahmed-Siddique/github-stats/master/generated/overview.svg" height="170" />
+  <img src="https://raw.githubusercontent.com/Nayil-Ahmed-Siddique/github-stats/master/generated/languages.svg" height="170" />
 </p>
+
+<p align="center">
+  <img src="https://github-contribution-graph.ez4o.com/?username=Nayil-Ahmed-Siddique&theme=react-dark" />
+</p>
+
 
 ---
 
