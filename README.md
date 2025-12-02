@@ -23,42 +23,48 @@ My technical strengths include **Transformers, CNNs, RNNs, LLM Fine-tuning, NLP,
 
 ---
 
- ## 🛠️ Tech & Tools
-<!-- Badges row 1 (core languages & libs) -->
+## 🛠️ Tech & Tools
+
+<!-- Row 1: Core Programming & Libraries -->
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-005C9C?style=for-the-badge&logo=Matplotlib&logoColor=white" />
+  <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-005C9C?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" />
-  <img alt="Keras" src="https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img alt="Scikit-Learn" src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img alt="Keras" src="https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
-<!-- Badges row 2 (core languages & libs) -->
+
+<!-- Row 2: AI / ML Concepts (Reordered as requested) -->
 <p align="center">
   <img alt="Machine Learning" src="https://img.shields.io/badge/-Machine%20Learning-102230?style=for-the-badge&logo=googlescholar&logoColor=white" />
   <img alt="Deep Learning" src="https://img.shields.io/badge/-Deep%20Learning-8A2BE2?style=for-the-badge&logo=deeplearningai&logoColor=white" />
-  <img alt="Computer Vision" src="https://img.shields.io/badge/-Computer%20Vision-0A66C2?style=for-the-badge&logo=camera&logoColor=white" />
   <img alt="NLP" src="https://img.shields.io/badge/-NLP-CC0000?style=for-the-badge&logo=google&logoColor=white" />
   <img alt="NLU" src="https://img.shields.io/badge/-NLU-9932CC?style=for-the-badge&logo=semanticweb&logoColor=white" />
+  <img alt="Computer Vision" src="https://img.shields.io/badge/-Computer%20Vision-0A66C2?style=for-the-badge&logo=camera&logoColor=white" />
+  <img alt="Object Detection" src="https://img.shields.io/badge/-Object%20Detection-1E90FF?style=for-the-badge&logo=target&logoColor=white" />
 </p>
-<!-- Badges row 3 (core languages & libs) -->
-<p align="center">
-  <img alt="AI Automation" src="https://img.shields.io/badge/-AI%20Automation-2E8B57?style=for-the-badge&logo=robotframework&logoColor=white" />
-  <img alt="n8n" src="https://img.shields.io/badge/-n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img alt="Generative AI" src="https://img.shields.io/badge/-Generative%20AI-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
-</p>  
-<!-- Badges row 4 (nlp, deployment, etc) -->
+
+<!-- Row 3: Tools (Moved above automation section) -->
 <p align="center">
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="HuggingFace" src="https://img.shields.io/badge/-Hugging%20Face-FF9900?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
+
+<!-- Row 4: Automation & Generative AI (Final row) -->
+<p align="center">
+  <img alt="Generative AI" src="https://img.shields.io/badge/-Generative%20AI-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
+  <img alt="LLM" src="https://img.shields.io/badge/-LLMs-4B0082?style=for-the-badge&logo=openai&logoColor=white" />
+  <img alt="AI Automation" src="https://img.shields.io/badge/-AI%20Automation-2E8B57?style=for-the-badge&logo=robotframework&logoColor=white" />
+  <img alt="n8n" src="https://img.shields.io/badge/-n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
 
 ---
 
