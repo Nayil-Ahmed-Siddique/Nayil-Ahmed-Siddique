@@ -181,4 +181,23 @@ My technical strengths include **Transformers, CNNs, RNNs, LLM Fine-tuning, NLP,
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1700&color=00C2FF&center=true&vCenter=true&width=300&lines=Visitors+so+far+👇" alt="animated-text" />
 </p>
 
+## 👁️ Visitor Count  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1600&color=00C2FF&center=true&vCenter=true&width=300&lines=Profile+Views:+${Nayil-Ahmed-Siddique}" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nayil-Ahmed-Siddique&color=blue" />
+</p>
+
+
+## 👁️ Visitor Count
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile_Views-💠_Live_Counter-blue?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nayil-Ahmed-Siddique&color=brightgreen&style=for-the-badge" />
+</p>
+
 ---
