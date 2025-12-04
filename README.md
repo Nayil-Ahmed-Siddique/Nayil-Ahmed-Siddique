@@ -27,6 +27,7 @@ My technical strengths include **Transformers, CNNs, RNNs, LLM Fine-tuning, NLP,
 
 <!-- Row 1: Core Programming & Libraries -->
 <p align="center">
+  <img alt="Prompting" src="https://img.shields.io/badge/-Prompting-6A5ACD?style=for-the-badge&logo=spark&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
