@@ -66,6 +66,15 @@ My technical strengths include **Transformers, CNNs, RNNs, LLM Fine-tuning, NLP,
   <img alt="n8n" src="https://img.shields.io/badge/-n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
+<!-- Row 4: Automation & Generative AI (Final row) -->
+<p align="center">
+  <img alt="LangChain" src="https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img alt="Embeddings" src="https://img.shields.io/badge/-Embeddings-4B0082?style=for-the-badge&logo=vectorworks&logoColor=white" />
+  <img alt="Vector Database" src="https://img.shields.io/badge/-Vector%20DB-0B3D91?style=for-the-badge&logo=database&logoColor=white" />
+  <img alt="RAG" src="https://img.shields.io/badge/-RAG-800020?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  <img alt="API Integration" src="https://img.shields.io/badge/-API%20Integration-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img alt="AI Agents" src="https://img.shields.io/badge/-AI%20Agents-2E8B57?style=for-the-badge&logo=robotframework&logoColor=white" />
+</p>
 
 ---
 
@@ -88,28 +97,53 @@ My technical strengths include **Transformers, CNNs, RNNs, LLM Fine-tuning, NLP,
 
 ## 🚀 Projects
 
-### 🗣️ Lip-to-Speech Synthesis (Deep Learning | NLP | CV)  
-- Developed a visual-to-audio speech generation model using **CNN + RNN** architectures.  
-- Converted **silent lip movements → synthesized speech**.  
+### 🏥 Medical GPT – Medical Q&A System (RAG-based | LLM Engineering)
+- Built an LLM-powered **medical question-answering system** using **Retrieval-Augmented Generation (RAG)** over large medical PDFs.
+- Implemented document loading, **semantic chunking, embeddings**, and context-grounded prompting to reduce hallucinations.
+- Integrated **OpenRouter-based LLMs** to deliver an interactive terminal chatbot demonstrating applied GenAI workflows.
+
+---
+
+### 📄 Semantic Document Comparison API (Hugging Face | Bento ML)
+- Built an API system to detect **semantic changes between document versions** using embedding similarity techniques.
+- Used **Hugging Face pretrained sentence transformers** to generate embeddings and compare document meaning.
+- Served the model via **BentoML**, focusing on inference, API design, and production-style ML deployment at scale.
+
+---
+
+### 🤖 Automated Job Finder & Email Alert System (AI Automation | n8n)
+- Built an automated workflow to collect software engineering job postings from multiple sources using **RSS ingestion**.
+- Applied **rule-based filtering** and simulated AI-powered summarization to process unstructured job descriptions.
+- Generated structured email alerts with curated job links, showcasing practical workflow automation and system design.
+
+---
+
+### 🗣️ Lip-to-Speech Synthesis (Deep Learning | NLP | CV)
+- Developed a visual-to-audio speech generation model using **CNN + RNN** architectures.
+- Converted **silent lip movements → synthesized speech**.
 - Improved intelligibility through dataset refinement, tuning, and validation.
 
+---
 
-### 🍎 Fruit Quality Detection (Computer Vision | Classification)  
-- Built a **real-time fruit-quality detection** system using smartphone camera inputs.  
-- Designed a **web interface** for instant grading & fast evaluation.  
+### 🍎 Fruit Quality Detection (Computer Vision | Classification)
+- Built a **real-time fruit-quality detection** system using smartphone camera inputs.
+- Designed a **web interface** for instant grading & fast evaluation.
 - Ensured reliability across lighting & environment variations.
 
+---
 
-### 🏥 Healthcare Diabetes Prediction (ML | Feature Engineering)  
-- Built a predictive ML model to classify **diabetes risk** using real-world medical datasets.  
-- Applied **scaling, outlier removal, correlation analysis**, and model comparison.  
+### 🏥 Healthcare Diabetes Prediction (ML | Feature Engineering)
+- Built a predictive ML model to classify **diabetes risk** using real-world medical datasets.
+- Applied **scaling, outlier removal, correlation analysis**, and model comparison.
 - Evaluated models like **Logistic Regression, Random Forest, SVM** to optimize recall & accuracy.
 
+---
 
-### 🏠 Home Loan Analysis & Prediction (EDA + ML)  
-- Built a complete pipeline for **loan approval prediction**.  
-- Conducted thorough **EDA**, feature handling, encoding & selection.  
+### 🏠 Home Loan Analysis & Prediction (EDA + ML)
+- Built a complete pipeline for **loan approval prediction**.
+- Conducted thorough **EDA**, feature handling, encoding & selection.
 - Compared algorithms (Decision Trees, Random Forest, Gradient Boosting) for best performance.
+
 
 ---
 
