@@ -102,42 +102,30 @@ My technical strengths include **Transformers, CNNs, RNNs, LLM Fine-tuning, NLP,
 - Implemented document loading, **semantic chunking, embeddings**, and context-grounded prompting to reduce hallucinations.
 - Integrated **OpenRouter-based LLMs** to deliver an interactive terminal chatbot demonstrating applied GenAI workflows.
 
----
-
 ### 📄 Semantic Document Comparison API (Hugging Face | Bento ML)
 - Built an API system to detect **semantic changes between document versions** using embedding similarity techniques.
 - Used **Hugging Face pretrained sentence transformers** to generate embeddings and compare document meaning.
 - Served the model via **BentoML**, focusing on inference, API design, and production-style ML deployment at scale.
-
----
 
 ### 🤖 Automated Job Finder & Email Alert System (AI Automation | n8n)
 - Built an automated workflow to collect software engineering job postings from multiple sources using **RSS ingestion**.
 - Applied **rule-based filtering** and simulated AI-powered summarization to process unstructured job descriptions.
 - Generated structured email alerts with curated job links, showcasing practical workflow automation and system design.
 
----
-
 ### 🗣️ Lip-to-Speech Synthesis (Deep Learning | NLP | CV)
 - Developed a visual-to-audio speech generation model using **CNN + RNN** architectures.
 - Converted **silent lip movements → synthesized speech**.
 - Improved intelligibility through dataset refinement, tuning, and validation.
-
----
 
 ### 🍎 Fruit Quality Detection (Computer Vision | Classification)
 - Built a **real-time fruit-quality detection** system using smartphone camera inputs.
 - Designed a **web interface** for instant grading & fast evaluation.
 - Ensured reliability across lighting & environment variations.
 
----
-
 ### 🏥 Healthcare Diabetes Prediction (ML | Feature Engineering)
 - Built a predictive ML model to classify **diabetes risk** using real-world medical datasets.
 - Applied **scaling, outlier removal, correlation analysis**, and model comparison.
 - Evaluated models like **Logistic Regression, Random Forest, SVM** to optimize recall & accuracy.
-
----
 
 ### 🏠 Home Loan Analysis & Prediction (EDA + ML)
 - Built a complete pipeline for **loan approval prediction**.
