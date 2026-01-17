@@ -92,10 +92,14 @@ My technical strengths include **Transformers, CNNs, RNNs, LLM Fine-tuning, NLP,
 - Analyzed datasets to extract insights influencing model features and direction.  
 - Worked with data scientists to improve model accuracy iteratively.  
 
-
 ---
 
 ## 🚀 Projects
+
+### 🤖 Agentic Job Intelligence System (LangGraph-based | AI Agents)
+- Built an **Agentic AI** system using **LangGraph** to discover, filter, and evaluate software job postings end-to-end.
+- Designed **LLM-driven&** reasoning nodes to assess role relevance, experience fit, and missing resume keywords with explanations.
+- **Automated job analysis** and email reporting, showcasing applied **AI agent** design, tool orchestration, and production-style workflows.
 
 ### 🏥 Medical GPT – Medical Q&A System (RAG-based | LLM Engineering)
 - Built an LLM-powered **medical question-answering system** using **Retrieval-Augmented Generation (RAG)** over large medical PDFs.
