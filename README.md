@@ -81,7 +81,7 @@ My technical strengths include **Transformers, CNNs, RNNs, LLM Fine-tuning, NLP,
 ## 💼 Experience
 
 ### **Ambient.ai — AI Engineer (RLHF)**  
-📅 *Aug 2023 – Present*  
+📅 *Aug 2023 – Feb 2026*  
 - Trained and evaluated AI-based security camera models, improving real-time detection reliability.  
 - Fine-tuned and validated models using **RLHF** before deployment.  
 - Managed data labeling cycles, built feedback loops, and performed performance monitoring.  
