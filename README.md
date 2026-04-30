@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <strong>AI Engineer • ML Engineer • RLHF • Transformers • Computer Vision</strong>
+  <strong>AI/ML • Generative Ai • Agentic Ai • Transformers • NLP</strong>
 </p>
 
 ---
