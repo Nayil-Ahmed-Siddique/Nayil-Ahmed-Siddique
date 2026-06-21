@@ -6,20 +6,20 @@
 </p>
 
 <p align="center">
-  <strong>AI/ML • Generative Ai • Agentic Ai • Transformers • NLP</strong>
+  <strong>AI/ML • Generative Ai • Agentic Ai • Computer Vision • NLP</strong>
 </p>
 
 ---
 
 ## 👤 About Me 
 
-I am an **AI Engineer** with **2+ years of hands-on experience** in developing, refining, and validating AI/ML models for real-world applications.  
+I am an **AI & Machine Learning Engineer** with **nearly 3 years of hands-on experience** in model training, validation, and RLHF-based refinement within production computer vision environments.
 
-My experience spans the **full machine-learning lifecycle** — data preparation, model experimentation, optimization, and evaluation.
+My experience spans the **full machine learning lifecycle** — data preparation, feature engineering, model experimentation, evaluation, deployment, and continuous improvement.
 
-I’ve contributed to production-grade AI pipelines, especially in **security-driven computer vision systems**, where I trained, analyzed, and fine-tuned models using **RLHF (Reinforcement Learning from Human Feedback)** to improve real-world reliability.
+I have worked on production AI security camera systems serving enterprise clients across technology, cloud, media, education, transportation, and public infrastructure sectors. My work involved model validation, threat analysis, customer-specific tuning, performance monitoring, and RLHF-driven feedback loops to improve real-world reliability.
 
-My technical strengths include **Transformers, CNNs, RNNs, LLM Fine-tuning, NLP, Computer Vision, Generative Models**, classical ML, and structured experimentation.
+Beyond traditional ML, I actively build **Generative AI solutions** using **LLMs, RAG pipelines, embeddings, vector databases, AI agents, and API integrations**. My technical strengths include **Transformers, CNNs, RNNs, NLP, Computer Vision, LLM Integration, Generative AI, and production-focused AI systems**.
 
 ---
 
@@ -76,15 +76,29 @@ My technical strengths include **Transformers, CNNs, RNNs, LLM Fine-tuning, NLP,
   <img alt="AI Agents" src="https://img.shields.io/badge/-AI%20Agents-2E8B57?style=for-the-badge&logo=robotframework&logoColor=white" />
 </p>
 
+<!-- Row 6: MLOps & Deployment -->
+<p align="center">
+  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="CI/CD" src="https://img.shields.io/badge/-CI%2FCD-FF6F00?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img alt="MLflow" src="https://img.shields.io/badge/-MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img alt="Cloud Deployment" src="https://img.shields.io/badge/-Cloud%20Deployment-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</p>
+
 ---
 
 ## 💼 Experience
 
 ### **Ambient.ai — AI Engineer (RLHF)**  
-📅 *Aug 2023 – Feb 2026*  
-- Trained and evaluated AI-based security camera models, improving real-time detection reliability.  
-- Fine-tuned and validated models using **RLHF** before deployment.  
-- Managed data labeling cycles, built feedback loops, and performed performance monitoring.  
+📅 *Aug 2023 – Feb 2026*
+
+- Worked within the **Threat Data Analysis Center (TDAC)**, validating and refining computer vision models deployed across **1000+ cameras** serving **70+ enterprise clients**.
+- Reviewed and corrected model predictions through true/false positive analysis, enabling customer-specific tuning for use cases including intruder detection, tailgating, loitering, access control, fire & smoke alerts, and weapon detection.
+- Collaborated with ML engineers on pre-deployment model evaluation, performance tracking, and iterative feedback cycles to ensure production-ready accuracy.
+- Conducted pre-live QA testing, identifying edge-case failures caused by environmental factors such as lighting conditions, weather effects, and object misclassification.
+- Applied **RLHF-based feedback loops** to continuously improve model performance and threat detection accuracy across multiple client environments.
+
 
 ### **Inventeron Technologies — Machine Learning Intern**  
 📅 *Aug 2022 – Oct 2022*  
