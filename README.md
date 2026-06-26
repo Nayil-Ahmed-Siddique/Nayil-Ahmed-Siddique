@@ -102,9 +102,15 @@ Beyond traditional ML, I actively build **Generative AI solutions** using **LLMs
 
 ### **Inventeron Technologies — Machine Learning Intern**  
 📅 *Aug 2022 – Oct 2022*  
-- Built ML & DL models through hands-on experimentation and hyperparameter tuning.  
-- Analyzed datasets to extract insights influencing model features and direction.  
-- Worked with data scientists to improve model accuracy iteratively.  
+- Gained hands-on experience in developing machine learning & deep learning models across practical use cases.  
+- Worked on multiple projects involving ML & DL concepts and developed models to improve overall accuracy.
+- Collaborated with a team of data scientists to analyze large datasets, extracting insights and present findings. 
+
+### **Varcons Technologies — AI Developer Intern**  
+📅 *Oct 2022 – Dec 2022*  
+- Contributed to the seamless delivery of crucial project, meeting project requirements, strategic objectives, and ambitious timelines.
+- Succesfully developed and implemented advanced machine learning algorithms and cutting-edge speech synthesis models for the project.   
+- Actively engaged remotely on a lip to speech synthesis project, working with a team of dedicated researchers and engineers. 
 
 ---
 
