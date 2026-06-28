@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Nayil Ahmed Siddique</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+AI+Solutions;LLMs+%7C+RAG+%7C+AI+Agents;Computer+Vision+%7C+RLHF;Always+Learning+Something+New" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+ML+%7C+DL+%7C+Prompt+Engineering+Enthusiast" alt="Typing SVG" />
 </p>
 
