@@ -2,15 +2,8 @@
 <h1 align="center">Hi 👋, I'm Nayil Ahmed Siddique</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2l4cHJ2N3VtbDk1bDczM3A4b2M4MnM2cTR4Zm50ZWU4dXB4MjdrNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="90">
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+ML+%7C+DL" />
-  <br><br>
-  <img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" width="120">
-</p>
-<p align="center">
   <strong>AI/ML • Generative Ai • Agentic Ai • Computer Vision • NLP</strong>
 </p>
 
