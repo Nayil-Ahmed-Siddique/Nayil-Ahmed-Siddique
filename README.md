@@ -6,9 +6,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+ML+%7C+DL+%7C+Prompt+Engineering+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+ML+%7C+DL" />
+  <br><br>
+  <img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" width="120">
 </p>
-
 <p align="center">
   <strong>AI/ML • Generative Ai • Agentic Ai • Computer Vision • NLP</strong>
 </p>
