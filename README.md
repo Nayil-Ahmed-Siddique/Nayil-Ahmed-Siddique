@@ -62,6 +62,7 @@ Beyond traditional ML, I actively build **Generative AI solutions** using **LLMs
   <img alt="LLM" src="https://img.shields.io/badge/-LLMs-4B0082?style=for-the-badge&logo=openai&logoColor=white" />
   <img alt="AI Automation" src="https://img.shields.io/badge/-AI%20Automation-2E8B57?style=for-the-badge&logo=robotframework&logoColor=white" />
   <img alt="n8n" src="https://img.shields.io/badge/-n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
 <!-- Row 4: Automation & Generative AI (Final row) -->
